@@ -1,9 +1,5 @@
 {
     "adapterVersion": 1,
-    "derived": {
-        "postDate": "2025-12-15 12:38:00",
-        "postModified": "2026-03-03 16:54:34"
-    },
     "displayName": "LockedCard FR",
     "logicalKey": "lockedcard-fr",
     "metadata": {

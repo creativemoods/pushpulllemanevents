@@ -1,9 +1,5 @@
 {
     "adapterVersion": 1,
-    "derived": {
-        "postDate": "2024-12-05 08:48:07",
-        "postModified": "2026-02-13 11:15:27"
-    },
     "displayName": "CTA-events-etc-EN",
     "logicalKey": "cta-events-etc-en",
     "metadata": {

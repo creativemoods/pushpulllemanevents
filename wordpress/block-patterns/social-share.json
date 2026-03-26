@@ -1,9 +1,5 @@
 {
     "adapterVersion": 1,
-    "derived": {
-        "postDate": "2024-10-03 17:30:48",
-        "postModified": "2024-11-15 16:19:25"
-    },
     "displayName": "Social Share",
     "logicalKey": "social-share",
     "metadata": {

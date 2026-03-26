@@ -1,9 +1,5 @@
 {
     "adapterVersion": 1,
-    "derived": {
-        "postDate": "2024-10-11 10:06:50",
-        "postModified": "2024-11-15 16:19:23"
-    },
     "displayName": "Blog post row - right image",
     "logicalKey": "blog-post-row-right-image",
     "metadata": {
