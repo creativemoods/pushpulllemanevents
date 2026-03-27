@@ -9,18 +9,6 @@
                 "value": "1.9.1"
             },
             {
-                "key": "_wpml_location_migration_done",
-                "value": "1"
-            },
-            {
-                "key": "_wpml_word_count",
-                "value": "52"
-            },
-            {
-                "key": "copied_media_ids",
-                "value": []
-            },
-            {
                 "key": "generateblocks_patterns_tree",
                 "value": [
                     {
@@ -33,10 +21,6 @@
                         "scripts": []
                     }
                 ]
-            },
-            {
-                "key": "referenced_media_ids",
-                "value": []
             }
         ],
         "restoration": {
