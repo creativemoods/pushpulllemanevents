@@ -1,0 +1,62 @@
+{
+    "adapterVersion": 1,
+    "displayName": "camp2",
+    "logicalKey": "camp2-png",
+    "metadata": {
+        "attachmentMetadata": {
+            "file": "camp2.png",
+            "filesize": 185625,
+            "height": 467,
+            "image_meta": {
+                "aperture": "0",
+                "camera": "",
+                "caption": "",
+                "copyright": "",
+                "created_timestamp": "0",
+                "credit": "",
+                "focal_length": "0",
+                "iso": "0",
+                "keywords": [],
+                "orientation": "0",
+                "shutter_speed": "0",
+                "title": ""
+            },
+            "sizes": {
+                "medium": {
+                    "file": "camp2-283x300.png",
+                    "filesize": 66196,
+                    "height": 300,
+                    "mime-type": "image/png",
+                    "width": 283
+                },
+                "thumbnail": {
+                    "file": "camp2-150x150.png",
+                    "filesize": 18417,
+                    "height": 150,
+                    "mime-type": "image/png",
+                    "width": 150
+                }
+            },
+            "width": 440
+        },
+        "restoration": {
+            "postType": "attachment"
+        }
+    },
+    "payload": {
+        "altText": "",
+        "binaryFile": "camp2.png",
+        "binarySha1": "eadd0c7d00f918dcc1ac5d3f4a0b8f6546e47826",
+        "caption": "",
+        "description": "",
+        "filename": "camp2.png",
+        "mimeType": "image/png",
+        "title": "camp2",
+        "uploadsPath": "camp2.png"
+    },
+    "postStatus": "inherit",
+    "schemaVersion": 1,
+    "selector": "camp2-png",
+    "slug": "camp2",
+    "type": "wordpress_attachment"
+}

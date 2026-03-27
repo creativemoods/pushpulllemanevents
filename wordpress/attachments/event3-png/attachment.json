@@ -1,0 +1,62 @@
+{
+    "adapterVersion": 1,
+    "displayName": "event3",
+    "logicalKey": "event3-png",
+    "metadata": {
+        "attachmentMetadata": {
+            "file": "event3.png",
+            "filesize": 122795,
+            "height": 426,
+            "image_meta": {
+                "aperture": "0",
+                "camera": "",
+                "caption": "",
+                "copyright": "",
+                "created_timestamp": "0",
+                "credit": "",
+                "focal_length": "0",
+                "iso": "0",
+                "keywords": [],
+                "orientation": "0",
+                "shutter_speed": "0",
+                "title": ""
+            },
+            "sizes": {
+                "medium": {
+                    "file": "event3-300x290.png",
+                    "filesize": 53116,
+                    "height": 290,
+                    "mime-type": "image/png",
+                    "width": 300
+                },
+                "thumbnail": {
+                    "file": "event3-150x150.png",
+                    "filesize": 14856,
+                    "height": 150,
+                    "mime-type": "image/png",
+                    "width": 150
+                }
+            },
+            "width": 440
+        },
+        "restoration": {
+            "postType": "attachment"
+        }
+    },
+    "payload": {
+        "altText": "",
+        "binaryFile": "event3.png",
+        "binarySha1": "5fdc0f56b52dd56e61b340f3874ab59d1baa3b53",
+        "caption": "",
+        "description": "",
+        "filename": "event3.png",
+        "mimeType": "image/png",
+        "title": "event3",
+        "uploadsPath": "event3.png"
+    },
+    "postStatus": "inherit",
+    "schemaVersion": 1,
+    "selector": "event3-png",
+    "slug": "event3",
+    "type": "wordpress_attachment"
+}

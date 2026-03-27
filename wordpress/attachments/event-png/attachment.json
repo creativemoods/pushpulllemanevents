@@ -1,0 +1,62 @@
+{
+    "adapterVersion": 1,
+    "displayName": "event",
+    "logicalKey": "event-png",
+    "metadata": {
+        "attachmentMetadata": {
+            "file": "event.png",
+            "filesize": 209244,
+            "height": 372,
+            "image_meta": {
+                "aperture": "0",
+                "camera": "",
+                "caption": "",
+                "copyright": "",
+                "created_timestamp": "0",
+                "credit": "",
+                "focal_length": "0",
+                "iso": "0",
+                "keywords": [],
+                "orientation": "0",
+                "shutter_speed": "0",
+                "title": ""
+            },
+            "sizes": {
+                "medium": {
+                    "file": "event-300x291.png",
+                    "filesize": 122952,
+                    "height": 291,
+                    "mime-type": "image/png",
+                    "width": 300
+                },
+                "thumbnail": {
+                    "file": "event-150x150.png",
+                    "filesize": 28742,
+                    "height": 150,
+                    "mime-type": "image/png",
+                    "width": 150
+                }
+            },
+            "width": 384
+        },
+        "restoration": {
+            "postType": "attachment"
+        }
+    },
+    "payload": {
+        "altText": "",
+        "binaryFile": "event.png",
+        "binarySha1": "1cf40d2098f81cc1d9858ab528f61d5416eba5ac",
+        "caption": "",
+        "description": "",
+        "filename": "event.png",
+        "mimeType": "image/png",
+        "title": "event",
+        "uploadsPath": "event.png"
+    },
+    "postStatus": "inherit",
+    "schemaVersion": 1,
+    "selector": "event-png",
+    "slug": "event",
+    "type": "wordpress_attachment"
+}

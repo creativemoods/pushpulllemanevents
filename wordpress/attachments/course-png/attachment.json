@@ -1,0 +1,62 @@
+{
+    "adapterVersion": 1,
+    "displayName": "course",
+    "logicalKey": "course-png",
+    "metadata": {
+        "attachmentMetadata": {
+            "file": "course.png",
+            "filesize": 205154,
+            "height": 322,
+            "image_meta": {
+                "aperture": "0",
+                "camera": "",
+                "caption": "",
+                "copyright": "",
+                "created_timestamp": "0",
+                "credit": "",
+                "focal_length": "0",
+                "iso": "0",
+                "keywords": [],
+                "orientation": "0",
+                "shutter_speed": "0",
+                "title": ""
+            },
+            "sizes": {
+                "medium": {
+                    "file": "course-300x238.png",
+                    "filesize": 109942,
+                    "height": 238,
+                    "mime-type": "image/png",
+                    "width": 300
+                },
+                "thumbnail": {
+                    "file": "course-150x150.png",
+                    "filesize": 33957,
+                    "height": 150,
+                    "mime-type": "image/png",
+                    "width": 150
+                }
+            },
+            "width": 406
+        },
+        "restoration": {
+            "postType": "attachment"
+        }
+    },
+    "payload": {
+        "altText": "",
+        "binaryFile": "course.png",
+        "binarySha1": "af5cba5ba3db02e241a23018ab2658b489001c0a",
+        "caption": "",
+        "description": "",
+        "filename": "course.png",
+        "mimeType": "image/png",
+        "title": "course",
+        "uploadsPath": "course.png"
+    },
+    "postStatus": "inherit",
+    "schemaVersion": 1,
+    "selector": "course-png",
+    "slug": "course",
+    "type": "wordpress_attachment"
+}

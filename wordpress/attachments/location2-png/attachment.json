@@ -1,0 +1,62 @@
+{
+    "adapterVersion": 1,
+    "displayName": "location2",
+    "logicalKey": "location2-png",
+    "metadata": {
+        "attachmentMetadata": {
+            "file": "location2.png",
+            "filesize": 170389,
+            "height": 433,
+            "image_meta": {
+                "aperture": "0",
+                "camera": "",
+                "caption": "",
+                "copyright": "",
+                "created_timestamp": "0",
+                "credit": "",
+                "focal_length": "0",
+                "iso": "0",
+                "keywords": [],
+                "orientation": "0",
+                "shutter_speed": "0",
+                "title": ""
+            },
+            "sizes": {
+                "medium": {
+                    "file": "location2-300x295.png",
+                    "filesize": 72900,
+                    "height": 295,
+                    "mime-type": "image/png",
+                    "width": 300
+                },
+                "thumbnail": {
+                    "file": "location2-150x150.png",
+                    "filesize": 19554,
+                    "height": 150,
+                    "mime-type": "image/png",
+                    "width": 150
+                }
+            },
+            "width": 440
+        },
+        "restoration": {
+            "postType": "attachment"
+        }
+    },
+    "payload": {
+        "altText": "",
+        "binaryFile": "location2.png",
+        "binarySha1": "933b6c025b7c809fcd45f23390fd25b86ab18f9d",
+        "caption": "",
+        "description": "",
+        "filename": "location2.png",
+        "mimeType": "image/png",
+        "title": "location2",
+        "uploadsPath": "location2.png"
+    },
+    "postStatus": "inherit",
+    "schemaVersion": 1,
+    "selector": "location2-png",
+    "slug": "location2",
+    "type": "wordpress_attachment"
+}

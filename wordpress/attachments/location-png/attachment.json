@@ -1,0 +1,62 @@
+{
+    "adapterVersion": 1,
+    "displayName": "location",
+    "logicalKey": "location-png",
+    "metadata": {
+        "attachmentMetadata": {
+            "file": "location.png",
+            "filesize": 195001,
+            "height": 355,
+            "image_meta": {
+                "aperture": "0",
+                "camera": "",
+                "caption": "",
+                "copyright": "",
+                "created_timestamp": "0",
+                "credit": "",
+                "focal_length": "0",
+                "iso": "0",
+                "keywords": [],
+                "orientation": "0",
+                "shutter_speed": "0",
+                "title": ""
+            },
+            "sizes": {
+                "medium": {
+                    "file": "location-300x295.png",
+                    "filesize": 132981,
+                    "height": 295,
+                    "mime-type": "image/png",
+                    "width": 300
+                },
+                "thumbnail": {
+                    "file": "location-150x150.png",
+                    "filesize": 31805,
+                    "height": 150,
+                    "mime-type": "image/png",
+                    "width": 150
+                }
+            },
+            "width": 361
+        },
+        "restoration": {
+            "postType": "attachment"
+        }
+    },
+    "payload": {
+        "altText": "",
+        "binaryFile": "location.png",
+        "binarySha1": "65b855a70082e34b50635f9b7e3c6ea7ac19e45c",
+        "caption": "",
+        "description": "",
+        "filename": "location.png",
+        "mimeType": "image/png",
+        "title": "location",
+        "uploadsPath": "location.png"
+    },
+    "postStatus": "inherit",
+    "schemaVersion": 1,
+    "selector": "location-png",
+    "slug": "location",
+    "type": "wordpress_attachment"
+}

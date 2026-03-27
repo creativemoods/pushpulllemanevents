@@ -1,0 +1,62 @@
+{
+    "adapterVersion": 1,
+    "displayName": "exhibition2",
+    "logicalKey": "exhibition2-png",
+    "metadata": {
+        "attachmentMetadata": {
+            "file": "exhibition2.png",
+            "filesize": 86158,
+            "height": 316,
+            "image_meta": {
+                "aperture": "0",
+                "camera": "",
+                "caption": "",
+                "copyright": "",
+                "created_timestamp": "0",
+                "credit": "",
+                "focal_length": "0",
+                "iso": "0",
+                "keywords": [],
+                "orientation": "0",
+                "shutter_speed": "0",
+                "title": ""
+            },
+            "sizes": {
+                "medium": {
+                    "file": "exhibition2-300x215.png",
+                    "filesize": 51532,
+                    "height": 215,
+                    "mime-type": "image/png",
+                    "width": 300
+                },
+                "thumbnail": {
+                    "file": "exhibition2-150x150.png",
+                    "filesize": 27775,
+                    "height": 150,
+                    "mime-type": "image/png",
+                    "width": 150
+                }
+            },
+            "width": 440
+        },
+        "restoration": {
+            "postType": "attachment"
+        }
+    },
+    "payload": {
+        "altText": "",
+        "binaryFile": "exhibition2.png",
+        "binarySha1": "0277449fb8942f73bfad5f6bfb71750bce8ff863",
+        "caption": "",
+        "description": "",
+        "filename": "exhibition2.png",
+        "mimeType": "image/png",
+        "title": "exhibition2",
+        "uploadsPath": "exhibition2.png"
+    },
+    "postStatus": "inherit",
+    "schemaVersion": 1,
+    "selector": "exhibition2-png",
+    "slug": "exhibition2",
+    "type": "wordpress_attachment"
+}
