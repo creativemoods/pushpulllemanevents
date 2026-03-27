@@ -1,0 +1,18 @@
+{
+    "adapterVersion": 1,
+    "displayName": "Que faire en Suisse romande ce week-end ?",
+    "logicalKey": "que-faire-en-suisse-romande-ce-week-end",
+    "metadata": {
+        "restoration": {
+            "postType": "page"
+        }
+    },
+    "payload": {
+        "postContent": "<!-- wp:generateblocks/headline {\"uniqueId\":\"af3e1472\",\"blockVersion\":3,\"typography\":{\"fontSize\":\"28px\",\"textAlign\":\"center\"},\"spacing\":{\"marginTop\":\"\",\"paddingTop\":\"20px\"}} -->\n<h2 class=\"gb-headline gb-headline-af3e1472 gb-headline-text\">Idées de sorties en Suisse romande pour ce week-end</h2>\n<!-- /wp:generateblocks/headline -->\n\n<!-- wp:generateblocks/container {\"uniqueId\":\"213cbf26\",\"anchor\":\"eventsrow\",\"isDynamic\":true,\"blockVersion\":4,\"spacing\":{\"paddingTop\":\"0px\",\"paddingBottom\":\"40px\",\"paddingTopMobile\":\"0px\",\"paddingBottomMobile\":\"20px\",\"paddingLeftMobile\":\"20px\",\"paddingRightMobile\":\"20px\"}} -->\n<!-- wp:generateblocks/container {\"uniqueId\":\"cff916e1\",\"isDynamic\":true,\"blockVersion\":4,\"spacing\":{\"marginRight\":\"auto\",\"marginLeft\":\"auto\",\"paddingLeft\":\"20px\",\"paddingRight\":\"20px\"}} -->\n<!-- wp:generateblocks/container {\"uniqueId\":\"8b0ff456\",\"isDynamic\":true,\"blockVersion\":4,\"className\":\"masnory-loop\"} -->\n<!-- wp:generateblocks/query-loop {\"uniqueId\":\"d5b55bf8\",\"query\":{\"post_type\":\"le_event\",\"per_page\":\"12\",\"tax_query\":[{\"taxonomy\":\"leactive\",\"terms\":[2],\"rest\":\"leactive\"}]}} -->\n<!-- wp:generateblocks/grid {\"uniqueId\":\"7ec1dfbb\",\"columns\":1,\"horizontalGap\":20,\"verticalGap\":20,\"isDynamic\":true,\"blockVersion\":3,\"isQueryLoop\":true,\"lock\":{\"remove\":true},\"className\":\"weekend-specials\"} -->\n<!-- wp:generateblocks/container {\"uniqueId\":\"20bdc1bd\",\"isGrid\":true,\"isQueryLoopItem\":true,\"gridId\":\"7ec1dfbb\",\"backgroundColor\":\"#fafafa\",\"isDynamic\":true,\"blockVersion\":4,\"sizing\":{\"width\":\"25%\",\"widthMobile\":\"100%\"},\"spacing\":{\"paddingTop\":\"\",\"paddingRight\":\"\",\"paddingBottom\":\"\",\"paddingLeft\":\"\"},\"lock\":{\"remove\":true,\"move\":true}} -->\n<!-- wp:block {\"ref\":29150} /-->\n<!-- /wp:generateblocks/container -->\n<!-- /wp:generateblocks/grid -->\n<!-- /wp:generateblocks/query-loop -->\n<!-- /wp:generateblocks/container -->\n<!-- /wp:generateblocks/container -->\n\n<!-- wp:generateblocks/container {\"uniqueId\":\"e2c4238f\",\"isDynamic\":true,\"blockVersion\":4,\"spacing\":{\"paddingBottom\":\"0px\",\"paddingLeftMobile\":\"0px\",\"paddingRightMobile\":\"0px\",\"paddingBottomMobile\":\"10px\"}} -->\n<!-- wp:generateblocks/container {\"uniqueId\":\"e04a6012\",\"isDynamic\":true,\"blockVersion\":4,\"sizing\":{\"maxWidth\":\"60%\",\"maxWidthMobile\":\"100%\"},\"spacing\":{\"marginRight\":\"auto\",\"marginLeft\":\"auto\"}} -->\n<!-- wp:generateblocks/headline {\"uniqueId\":\"1e8d9a60\",\"blockVersion\":3,\"typography\":{\"fontSize\":\"28px\",\"textAlign\":\"center\"},\"spacing\":{\"paddingTop\":\"20px\"}} -->\n<h2 class=\"gb-headline gb-headline-1e8d9a60 gb-headline-text\">Vous souhaitez découvrir encore plus d’idées pour le week-end ?</h2>\n<!-- /wp:generateblocks/headline -->\n<!-- /wp:generateblocks/container -->\n\n<!-- wp:block {\"ref\":119} /-->\n<!-- /wp:generateblocks/container -->\n<!-- /wp:generateblocks/container -->"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": "que-faire-en-suisse-romande-ce-week-end",
+    "slug": "que-faire-en-suisse-romande-ce-week-end",
+    "type": "wordpress_page"
+}

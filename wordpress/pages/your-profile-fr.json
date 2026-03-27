@@ -1,0 +1,18 @@
+{
+    "adapterVersion": 1,
+    "displayName": "Your Profile FR",
+    "logicalKey": "your-profile-fr",
+    "metadata": {
+        "restoration": {
+            "postType": "page"
+        }
+    },
+    "payload": {
+        "postContent": "<!-- wp:shortcode -->\n[pmpro_member_profile_edit]\n<!-- /wp:shortcode -->"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": "your-profile-fr",
+    "slug": "your-profile-fr",
+    "type": "wordpress_page"
+}

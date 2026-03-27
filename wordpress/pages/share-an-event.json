@@ -1,0 +1,18 @@
+{
+    "adapterVersion": 1,
+    "displayName": "Share an event",
+    "logicalKey": "share-an-event",
+    "metadata": {
+        "restoration": {
+            "postType": "page"
+        }
+    },
+    "payload": {
+        "postContent": "<!-- wp:generateblocks/container {\"uniqueId\":\"5a6344a3\",\"bgOptions\":{\"selector\":\"pseudo-element\",\"opacity\":0.22,\"overlay\":false,\"position\":\"center center\",\"size\":\"cover\",\"repeat\":\"no-repeat\",\"attachment\":\"\"},\"isDynamic\":true,\"blockVersion\":4,\"position\":\"relative\",\"overflowX\":\"hidden\",\"overflowY\":\"hidden\",\"spacing\":{\"paddingTop\":\"\",\"paddingBottom\":\"\"}} -->\n<!-- wp:generateblocks/container {\"uniqueId\":\"e7f79de8\",\"backgroundColor\":\"#ffffff\",\"isDynamic\":true,\"blockVersion\":4,\"position\":\"relative\",\"zindex\":9,\"useGlobalMaxWidth\":true,\"spacing\":{\"marginRight\":\"auto\",\"marginLeft\":\"auto\",\"paddingTop\":\"50px\",\"paddingBottom\":\"50px\",\"paddingLeft\":\"30px\",\"paddingRight\":\"30px\",\"paddingLeftMobile\":\"\",\"marginLeftMobile\":\"15px\",\"marginRightMobile\":\"15px\"}} -->\n<!-- wp:generateblocks/headline {\"uniqueId\":\"49c0c512\",\"element\":\"h4\",\"blockVersion\":3,\"typography\":{\"textAlign\":\"center\",\"fontSizeMobile\":\"20px\"},\"spacing\":{\"paddingLeft\":\"160px\",\"paddingRight\":\"160px\",\"marginTop\":\"-30px\",\"paddingLeftMobile\":\"0px\",\"paddingRightMobile\":\"0px\"}} -->\n<h4 class=\"gb-headline gb-headline-49c0c512 gb-headline-text\">Know an event that’s not on Léman Events yet? Send us a link, and we’ll make sure it gets featured!<br><br>&nbsp;Are you the organizer? <a href=\"{{pushpull.home_url}}/premium-membership/\" title=\"\">Subscribe</a> and your organization will be part of our partner network, with your activities, events, and camps automatically listed for thousands of local families to see.</h4>\n<!-- /wp:generateblocks/headline -->\n\n<!-- wp:generateblocks/container {\"uniqueId\":\"b9163be5\",\"isDynamic\":true,\"blockVersion\":4,\"spacing\":{\"paddingLeft\":\"30px\",\"paddingRight\":\"30px\",\"paddingLeftMobile\":\"0px\",\"paddingRightMobile\":\"0px\"}} -->\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:generateblocks/container {\"uniqueId\":\"bc4a0647\",\"isDynamic\":true,\"blockVersion\":4,\"className\":\"advertise-form-cnt\"} -->\n<!-- wp:contact-form-7/contact-form-selector {\"id\":55069,\"hash\":\"c75022f\",\"title\":\"Share an event\"} -->\n<div class=\"wp-block-contact-form-7-contact-form-selector\">[contact-form-7 id=\"c75022f\" title=\"Share an event\"]</div>\n<!-- /wp:contact-form-7/contact-form-selector -->\n<!-- /wp:generateblocks/container --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n<!-- /wp:generateblocks/container -->\n<!-- /wp:generateblocks/container -->\n<!-- /wp:generateblocks/container -->"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": "share-an-event",
+    "slug": "share-an-event",
+    "type": "wordpress_page"
+}

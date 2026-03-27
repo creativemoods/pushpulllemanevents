@@ -1,0 +1,18 @@
+{
+    "adapterVersion": 1,
+    "displayName": "Premium Billing FR",
+    "logicalKey": "premium-billing-fr",
+    "metadata": {
+        "restoration": {
+            "postType": "page"
+        }
+    },
+    "payload": {
+        "postContent": "<!-- wp:shortcode -->\n[pmpro_billing]\n<!-- /wp:shortcode -->"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": "premium-billing-fr",
+    "slug": "premium-billing-fr",
+    "type": "wordpress_page"
+}
